@@ -2,4 +2,5 @@ title: Yuqiong Feng
 #logo
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
