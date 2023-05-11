@@ -27,7 +27,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Yuqiong Feng"
 description: "Ich muss verfassen um zu erfassen. -- Walter Benjamin"
-#baseurl: "/example" # the subpath of your site, e.g. "/blog"
+baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 url: "https://fengyuqiong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
