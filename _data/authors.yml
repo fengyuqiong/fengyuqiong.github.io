@@ -1,0 +1,11 @@
+# Authors
+
+
+Billy Rick:
+  name: Billy Rick
+  picture: /images/1.jpg
+  twitter: "@billyrick"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
