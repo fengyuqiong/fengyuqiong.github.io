@@ -35,8 +35,8 @@ read_time: true
 words_per_minute: 200
 mathjax:
   enable: true
-#  combo: "tex-mml-chtml"
-#  tags: "none"
+  combo: "tex-mml-chtml"
+  tags: "ams"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -44,7 +44,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: "feng" # Disqus shortname, e.g. "my_disqus_shortname"
 #twitter:
   #username: mmistakes # site's Twitter username
 
@@ -53,6 +53,7 @@ liquid:
   error_mode: strict
 
 # Build settings
+permalink: /:categories/:title/
 markdown: kramdown
 kramdown:
   input: GFM # use Github Flavored Markdown !important
@@ -122,7 +123,7 @@ defaults:
 # Site Author
 author:
   name: Yuqiong Feng
-  picture: /images/michael-rose-photo.jpg
+  #picture: /images/michael-rose-photo.jpg
   email:
   #twitter: mmistakes
   links:
